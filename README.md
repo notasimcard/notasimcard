@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on rewriting my online portfolio in Angular
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Angular and Machine Learning
 <!--
 **notasimcard/notasimcard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
