@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- This will be interesting. 
+- Give enough time, I can meet any software deadline. 
 <!--
 **notasimcard/notasimcard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
